@@ -1,0 +1,7 @@
+C:\BootCamp\LikeLion\LikeLion\TextNovel\TextNovel\bin\Debug\TextNovel.exe.config
+C:\BootCamp\LikeLion\LikeLion\TextNovel\TextNovel\bin\Debug\TextNovel.exe
+C:\BootCamp\LikeLion\LikeLion\TextNovel\TextNovel\bin\Debug\TextNovel.pdb
+C:\BootCamp\LikeLion\LikeLion\TextNovel\TextNovel\obj\Debug\TextNovel.csproj.AssemblyReference.cache
+C:\BootCamp\LikeLion\LikeLion\TextNovel\TextNovel\obj\Debug\TextNovel.csproj.CoreCompileInputs.cache
+C:\BootCamp\LikeLion\LikeLion\TextNovel\TextNovel\obj\Debug\TextNovel.exe
+C:\BootCamp\LikeLion\LikeLion\TextNovel\TextNovel\obj\Debug\TextNovel.pdb
