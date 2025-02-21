@@ -4,13 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace LikeLion2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("깃허브 연결하기");
+            int age;
+            age = 25;
+            Console.WriteLine(age);
         }
     }
 }
