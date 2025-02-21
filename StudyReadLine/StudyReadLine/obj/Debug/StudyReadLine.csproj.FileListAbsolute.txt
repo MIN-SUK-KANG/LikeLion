@@ -1,0 +1,7 @@
+C:\BootCamp\LikeLion\LikeLion\StudyReadLine\StudyReadLine\bin\Debug\StudyReadLine.exe.config
+C:\BootCamp\LikeLion\LikeLion\StudyReadLine\StudyReadLine\bin\Debug\StudyReadLine.exe
+C:\BootCamp\LikeLion\LikeLion\StudyReadLine\StudyReadLine\bin\Debug\StudyReadLine.pdb
+C:\BootCamp\LikeLion\LikeLion\StudyReadLine\StudyReadLine\obj\Debug\StudyReadLine.csproj.AssemblyReference.cache
+C:\BootCamp\LikeLion\LikeLion\StudyReadLine\StudyReadLine\obj\Debug\StudyReadLine.csproj.CoreCompileInputs.cache
+C:\BootCamp\LikeLion\LikeLion\StudyReadLine\StudyReadLine\obj\Debug\StudyReadLine.exe
+C:\BootCamp\LikeLion\LikeLion\StudyReadLine\StudyReadLine\obj\Debug\StudyReadLine.pdb
