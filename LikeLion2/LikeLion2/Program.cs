@@ -10,9 +10,15 @@ namespace LikeLion2
     {
         static void Main(string[] args)
         {
-            int age;
-            age = 25;
-            Console.WriteLine(age);
+            int number = 10;
+            double pi = 3.14;
+            char letter = 'A';
+            string name = "Alice";
+
+            Console.WriteLine(number);
+            Console.WriteLine(pi);
+            Console.WriteLine(letter);
+            Console.WriteLine(name);
         }
     }
 }

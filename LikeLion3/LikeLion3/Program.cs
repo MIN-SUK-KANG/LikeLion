@@ -10,15 +10,22 @@ namespace LikeLion3
     {
         static void Main(string[] args)
         {
-            int number = 10;
-            double pi = 3.14;
-            char letter = 'A';
-            string name = "Alice";
+            //캐릭터 
+            //hp : 100
+            //att : 56.7
+            //캐릭터이름 : ??
+            //등급 : S
 
-            Console.WriteLine(number);
-            Console.WriteLine(pi);
-            Console.WriteLine(letter);
-            Console.WriteLine(name);
+            int hp = 100;
+            double att = 56.7;
+            string name = "??";
+            char grade = 'S';
+
+            Console.WriteLine("캐릭터");
+            Console.WriteLine("hp : " + hp);
+            Console.WriteLine("att : " + att);
+            Console.WriteLine("캐릭터이름 : " + name);
+            Console.WriteLine("등급 : " + grade);
         }
     }
 }
