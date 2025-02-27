@@ -1,0 +1,7 @@
+C:\BootCamp\LikeLion\LikeLion\project모험가키우기\project모험가키우기\bin\Debug\project모험가키우기.exe.config
+C:\BootCamp\LikeLion\LikeLion\project모험가키우기\project모험가키우기\bin\Debug\project모험가키우기.exe
+C:\BootCamp\LikeLion\LikeLion\project모험가키우기\project모험가키우기\bin\Debug\project모험가키우기.pdb
+C:\BootCamp\LikeLion\LikeLion\project모험가키우기\project모험가키우기\obj\Debug\project모험가키우기.csproj.AssemblyReference.cache
+C:\BootCamp\LikeLion\LikeLion\project모험가키우기\project모험가키우기\obj\Debug\project모험가키우기.csproj.CoreCompileInputs.cache
+C:\BootCamp\LikeLion\LikeLion\project모험가키우기\project모험가키우기\obj\Debug\project모험가키우기.exe
+C:\BootCamp\LikeLion\LikeLion\project모험가키우기\project모험가키우기\obj\Debug\project모험가키우기.pdb

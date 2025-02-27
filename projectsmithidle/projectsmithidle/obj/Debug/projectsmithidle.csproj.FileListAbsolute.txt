@@ -1,0 +1,7 @@
+C:\BootCamp\LikeLion\LikeLion\projectsmithidle\projectsmithidle\obj\Debug\projectsmithidle.csproj.AssemblyReference.cache
+C:\BootCamp\LikeLion\LikeLion\projectsmithidle\projectsmithidle\obj\Debug\projectsmithidle.csproj.CoreCompileInputs.cache
+C:\BootCamp\LikeLion\LikeLion\projectsmithidle\projectsmithidle\bin\Debug\projectsmithidle.exe.config
+C:\BootCamp\LikeLion\LikeLion\projectsmithidle\projectsmithidle\bin\Debug\projectsmithidle.exe
+C:\BootCamp\LikeLion\LikeLion\projectsmithidle\projectsmithidle\bin\Debug\projectsmithidle.pdb
+C:\BootCamp\LikeLion\LikeLion\projectsmithidle\projectsmithidle\obj\Debug\projectsmithidle.exe
+C:\BootCamp\LikeLion\LikeLion\projectsmithidle\projectsmithidle\obj\Debug\projectsmithidle.pdb

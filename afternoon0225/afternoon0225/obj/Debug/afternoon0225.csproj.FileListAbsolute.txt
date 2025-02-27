@@ -1,0 +1,7 @@
+C:\BootCamp\LikeLion\LikeLion\afternoon0225\afternoon0225\bin\Debug\afternoon0225.exe.config
+C:\BootCamp\LikeLion\LikeLion\afternoon0225\afternoon0225\bin\Debug\afternoon0225.exe
+C:\BootCamp\LikeLion\LikeLion\afternoon0225\afternoon0225\bin\Debug\afternoon0225.pdb
+C:\BootCamp\LikeLion\LikeLion\afternoon0225\afternoon0225\obj\Debug\afternoon0225.csproj.AssemblyReference.cache
+C:\BootCamp\LikeLion\LikeLion\afternoon0225\afternoon0225\obj\Debug\afternoon0225.csproj.CoreCompileInputs.cache
+C:\BootCamp\LikeLion\LikeLion\afternoon0225\afternoon0225\obj\Debug\afternoon0225.exe
+C:\BootCamp\LikeLion\LikeLion\afternoon0225\afternoon0225\obj\Debug\afternoon0225.pdb
