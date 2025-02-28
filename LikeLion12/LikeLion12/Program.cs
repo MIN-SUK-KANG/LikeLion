@@ -103,9 +103,9 @@ namespace LikeLion12
         /// <summary>
         /// 두수를 곱하는 함수
         /// </summary>
-        /// <param name="a">int,double 오버로딩해놈</param>
-        /// <param name="b">int,double 오버로딩해놈</param>
-        /// <returns></returns>
+        /// <param name="a">int,double 오버로딩 되어있는 상태</param>
+        /// <param name="b">int,double 오버로딩 되어있는 상태</param>
+        /// <returns>두 숫자의 곱</returns>
         static int Multiply(int a, int b)
         {
             return a * b;

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "afternoon0227inventory", "afternoon0227inventory\afternoon0227inventory.csproj", "{F5A52011-B39F-48F3-882E-F6EBE57C348F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5A52011-B39F-48F3-882E-F6EBE57C348F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A52011-B39F-48F3-882E-F6EBE57C348F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A52011-B39F-48F3-882E-F6EBE57C348F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A52011-B39F-48F3-882E-F6EBE57C348F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD9576BC-C8DB-449A-8B41-E0736EFE7C49}
+	EndGlobalSection
+EndGlobal

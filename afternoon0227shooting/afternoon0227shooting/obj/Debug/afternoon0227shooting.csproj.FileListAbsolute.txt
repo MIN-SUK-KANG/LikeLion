@@ -1,0 +1,7 @@
+C:\BootCamp\LikeLion\LikeLion\afternoon0227shooting\afternoon0227shooting\bin\Debug\afternoon0227shooting.exe.config
+C:\BootCamp\LikeLion\LikeLion\afternoon0227shooting\afternoon0227shooting\bin\Debug\afternoon0227shooting.exe
+C:\BootCamp\LikeLion\LikeLion\afternoon0227shooting\afternoon0227shooting\bin\Debug\afternoon0227shooting.pdb
+C:\BootCamp\LikeLion\LikeLion\afternoon0227shooting\afternoon0227shooting\obj\Debug\afternoon0227shooting.csproj.AssemblyReference.cache
+C:\BootCamp\LikeLion\LikeLion\afternoon0227shooting\afternoon0227shooting\obj\Debug\afternoon0227shooting.csproj.CoreCompileInputs.cache
+C:\BootCamp\LikeLion\LikeLion\afternoon0227shooting\afternoon0227shooting\obj\Debug\afternoon0227shooting.exe
+C:\BootCamp\LikeLion\LikeLion\afternoon0227shooting\afternoon0227shooting\obj\Debug\afternoon0227shooting.pdb

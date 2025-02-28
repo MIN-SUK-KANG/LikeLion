@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BootCamp\\LikeLion\\LikeLion\\afternoon0227shooting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86BC85C5-D408-4F18-9939-30246CBD8207}|afternoon0227shooting\\afternoon0227shooting.csproj|c:\\bootcamp\\likelion\\likelion\\afternoon0227shooting\\afternoon0227shooting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BC85C5-D408-4F18-9939-30246CBD8207}|afternoon0227shooting\\afternoon0227shooting.csproj|solutionrelative:afternoon0227shooting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BootCamp\\LikeLion\\LikeLion\\afternoon0227shooting\\afternoon0227shooting\\Program.cs",
+              "RelativeDocumentMoniker": "afternoon0227shooting\\Program.cs",
+              "ToolTip": "C:\\BootCamp\\LikeLion\\LikeLion\\afternoon0227shooting\\afternoon0227shooting\\Program.cs",
+              "RelativeToolTip": "afternoon0227shooting\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:45:19.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

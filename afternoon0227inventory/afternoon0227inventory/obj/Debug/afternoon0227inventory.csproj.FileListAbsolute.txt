@@ -1,0 +1,7 @@
+C:\BootCamp\LikeLion\LikeLion\afternoon0227inventory\afternoon0227inventory\obj\Debug\afternoon0227inventory.csproj.AssemblyReference.cache
+C:\BootCamp\LikeLion\LikeLion\afternoon0227inventory\afternoon0227inventory\obj\Debug\afternoon0227inventory.csproj.CoreCompileInputs.cache
+C:\BootCamp\LikeLion\LikeLion\afternoon0227inventory\afternoon0227inventory\bin\Debug\afternoon0227inventory.exe.config
+C:\BootCamp\LikeLion\LikeLion\afternoon0227inventory\afternoon0227inventory\bin\Debug\afternoon0227inventory.exe
+C:\BootCamp\LikeLion\LikeLion\afternoon0227inventory\afternoon0227inventory\bin\Debug\afternoon0227inventory.pdb
+C:\BootCamp\LikeLion\LikeLion\afternoon0227inventory\afternoon0227inventory\obj\Debug\afternoon0227inventory.exe
+C:\BootCamp\LikeLion\LikeLion\afternoon0227inventory\afternoon0227inventory\obj\Debug\afternoon0227inventory.pdb
