@@ -1,0 +1,7 @@
+C:\BootCamp\LikeLion\LikeLion\until0303hanoigame\until0303hanoigame\bin\Debug\until0303hanoigame.exe.config
+C:\BootCamp\LikeLion\LikeLion\until0303hanoigame\until0303hanoigame\bin\Debug\until0303hanoigame.exe
+C:\BootCamp\LikeLion\LikeLion\until0303hanoigame\until0303hanoigame\bin\Debug\until0303hanoigame.pdb
+C:\BootCamp\LikeLion\LikeLion\until0303hanoigame\until0303hanoigame\obj\Debug\until0303hanoigame.csproj.AssemblyReference.cache
+C:\BootCamp\LikeLion\LikeLion\until0303hanoigame\until0303hanoigame\obj\Debug\until0303hanoigame.csproj.CoreCompileInputs.cache
+C:\BootCamp\LikeLion\LikeLion\until0303hanoigame\until0303hanoigame\obj\Debug\until0303hanoigame.exe
+C:\BootCamp\LikeLion\LikeLion\until0303hanoigame\until0303hanoigame\obj\Debug\until0303hanoigame.pdb

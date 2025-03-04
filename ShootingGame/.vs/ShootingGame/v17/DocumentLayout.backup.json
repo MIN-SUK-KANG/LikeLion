@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\BootCamp\\LikeLion\\LikeLion\\ShootingGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58EB8D12-617C-4397-848C-08B92EDC5D0A}|ShootingGame\\ShootingGame.csproj|C:\\BootCamp\\LikeLion\\LikeLion\\ShootingGame\\shootinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EB8D12-617C-4397-848C-08B92EDC5D0A}|ShootingGame\\ShootingGame.csproj|c:\\bootcamp\\likelion\\likelion\\shootinggame\\shootinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EB8D12-617C-4397-848C-08B92EDC5D0A}|ShootingGame\\ShootingGame.csproj|solutionrelative:shootinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "ShootingGame\\Program.cs",
               "ToolTip": "C:\\BootCamp\\LikeLion\\LikeLion\\ShootingGame\\ShootingGame\\Program.cs",
               "RelativeToolTip": "ShootingGame\\Program.cs",
-              "ViewState": "AgIAAD0CAAAAAAAAAAAAAEgCAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAEkCAAAAAAAAAADwv1kCAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T04:16:46.182Z",
               "EditorCaption": ""

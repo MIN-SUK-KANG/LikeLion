@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BootCamp\\LikeLion\\LikeLion\\until0303hanoigame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F4A3C86-A9E5-462B-8657-A076956895E8}|until0303hanoigame\\until0303hanoigame.csproj|c:\\bootcamp\\likelion\\likelion\\until0303hanoigame\\until0303hanoigame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F4A3C86-A9E5-462B-8657-A076956895E8}|until0303hanoigame\\until0303hanoigame.csproj|solutionrelative:until0303hanoigame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BootCamp\\LikeLion\\LikeLion\\until0303hanoigame\\until0303hanoigame\\Program.cs",
+              "RelativeDocumentMoniker": "until0303hanoigame\\Program.cs",
+              "ToolTip": "C:\\BootCamp\\LikeLion\\LikeLion\\until0303hanoigame\\until0303hanoigame\\Program.cs",
+              "RelativeToolTip": "until0303hanoigame\\Program.cs",
+              "ViewState": "AgIAAJABAAAAAAAAAAAAAGIBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:32:15.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
