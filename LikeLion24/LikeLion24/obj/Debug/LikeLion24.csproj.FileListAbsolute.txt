@@ -1,0 +1,7 @@
+C:\BootCamp\LikeLion\LikeLion\LikeLion24\LikeLion24\bin\Debug\LikeLion24.exe.config
+C:\BootCamp\LikeLion\LikeLion\LikeLion24\LikeLion24\bin\Debug\LikeLion24.exe
+C:\BootCamp\LikeLion\LikeLion\LikeLion24\LikeLion24\bin\Debug\LikeLion24.pdb
+C:\BootCamp\LikeLion\LikeLion\LikeLion24\LikeLion24\obj\Debug\LikeLion24.csproj.AssemblyReference.cache
+C:\BootCamp\LikeLion\LikeLion\LikeLion24\LikeLion24\obj\Debug\LikeLion24.csproj.CoreCompileInputs.cache
+C:\BootCamp\LikeLion\LikeLion\LikeLion24\LikeLion24\obj\Debug\LikeLion24.exe
+C:\BootCamp\LikeLion\LikeLion\LikeLion24\LikeLion24\obj\Debug\LikeLion24.pdb

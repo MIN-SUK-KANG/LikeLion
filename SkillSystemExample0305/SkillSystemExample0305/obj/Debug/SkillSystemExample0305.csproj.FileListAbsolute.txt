@@ -1,0 +1,7 @@
+C:\BootCamp\LikeLion\LikeLion\SkillSystemExample0305\SkillSystemExample0305\bin\Debug\SkillSystemExample0305.exe.config
+C:\BootCamp\LikeLion\LikeLion\SkillSystemExample0305\SkillSystemExample0305\bin\Debug\SkillSystemExample0305.exe
+C:\BootCamp\LikeLion\LikeLion\SkillSystemExample0305\SkillSystemExample0305\bin\Debug\SkillSystemExample0305.pdb
+C:\BootCamp\LikeLion\LikeLion\SkillSystemExample0305\SkillSystemExample0305\obj\Debug\SkillSystemExample0305.csproj.AssemblyReference.cache
+C:\BootCamp\LikeLion\LikeLion\SkillSystemExample0305\SkillSystemExample0305\obj\Debug\SkillSystemExample0305.csproj.CoreCompileInputs.cache
+C:\BootCamp\LikeLion\LikeLion\SkillSystemExample0305\SkillSystemExample0305\obj\Debug\SkillSystemExample0305.exe
+C:\BootCamp\LikeLion\LikeLion\SkillSystemExample0305\SkillSystemExample0305\obj\Debug\SkillSystemExample0305.pdb
