@@ -62,8 +62,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\Player.cs" />
+    <Compile Include="Assets\Script\PBullet.cs" />
     <Compile Include="Assets\Script\BackGround.cs" />
+    <Compile Include="Assets\Script\BossBullet.cs" />
+    <Compile Include="Assets\Script\Homing.cs" />
+    <Compile Include="Assets\Script\MBullet.cs" />
+    <Compile Include="Assets\Script\BossHead.cs" />
     <Compile Include="Assets\Script\Item.cs" />
+    <Compile Include="Assets\Script\Boss.cs" />
+    <Compile Include="Assets\Script\Spawn.cs" />
     <Compile Include="Assets\Script\Monster.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BootCamp\\LikeLion\\LikeLion\\Action1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB86B205-507C-411A-B3D4-135D949544F7}|Action1\\Action1.csproj|c:\\bootcamp\\likelion\\likelion\\action1\\action1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB86B205-507C-411A-B3D4-135D949544F7}|Action1\\Action1.csproj|solutionrelative:action1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BootCamp\\LikeLion\\LikeLion\\Action1\\Action1\\Program.cs",
+              "RelativeDocumentMoniker": "Action1\\Program.cs",
+              "ToolTip": "C:\\BootCamp\\LikeLion\\LikeLion\\Action1\\Action1\\Program.cs",
+              "RelativeToolTip": "Action1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:11:09.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
