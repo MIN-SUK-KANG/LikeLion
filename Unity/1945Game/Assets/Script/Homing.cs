@@ -11,6 +11,7 @@ public class Homing : MonoBehaviour
     {
         //플레이어 태그로 찾기
         target = GameObject.FindGameObjectWithTag("Player");
+        //Unity 인스펙터가 아니라 직접 찾는 이유: Prefab에서 Hierarchy를 찾으면 안된다
 
         //A - B  A바라보는 벡터     플레이어 - 미사일 
         dir = target.transform.position - transform.position;

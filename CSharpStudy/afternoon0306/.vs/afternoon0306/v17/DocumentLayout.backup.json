@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\BootCamp\\LikeLion\\LikeLion\\afternoon0306\\",
+  "WorkspaceRootPath": "C:\\BootCamp\\LikeLion\\CSharpStudy\\afternoon0306\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C4B5EDE-3ABB-4064-966F-401D59D14CF0}|afternoon0306\\afternoon0306.csproj|c:\\bootcamp\\likelion\\likelion\\afternoon0306\\afternoon0306\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C4B5EDE-3ABB-4064-966F-401D59D14CF0}|afternoon0306\\afternoon0306.csproj|c:\\bootcamp\\likelion\\csharpstudy\\afternoon0306\\afternoon0306\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C4B5EDE-3ABB-4064-966F-401D59D14CF0}|afternoon0306\\afternoon0306.csproj|solutionrelative:afternoon0306\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\BootCamp\\LikeLion\\LikeLion\\afternoon0306\\afternoon0306\\Program.cs",
+              "DocumentMoniker": "C:\\BootCamp\\LikeLion\\CSharpStudy\\afternoon0306\\afternoon0306\\Program.cs",
               "RelativeDocumentMoniker": "afternoon0306\\Program.cs",
-              "ToolTip": "C:\\BootCamp\\LikeLion\\LikeLion\\afternoon0306\\afternoon0306\\Program.cs",
+              "ToolTip": "C:\\BootCamp\\LikeLion\\CSharpStudy\\afternoon0306\\afternoon0306\\Program.cs",
               "RelativeToolTip": "afternoon0306\\Program.cs",
               "ViewState": "AgIAALYAAAAAAAAAAADwv88AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

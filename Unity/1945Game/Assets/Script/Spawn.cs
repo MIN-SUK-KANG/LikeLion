@@ -9,10 +9,18 @@ public class Spawn : MonoBehaviour
     public float SpawnStop = 10; //스폰끝나는시간
     public GameObject monster;
     public GameObject monster2;
+    public GameObject Boss;
 
     bool swi = true;
     bool swi2 = true;
 
+    [SerializeField]
+    GameObject textBossWarning;
+
+    private void Awake()
+    {
+        textBossWarning.SetActive(false);
+    }
     void Start()
     {
         StartCoroutine("RandomSpawn");
@@ -67,8 +75,13 @@ public class Spawn : MonoBehaviour
     {
         swi2 = false;
         StopCoroutine("RandomSpawn2");
+        //3초간 경고창 띄우기
+        textBossWarning.SetActive(true);
+        new WaitForSeconds(StartTime + 2);
+        textBossWarning.SetActive(false);
         //보스
-
+        Vector3 pos = new Vector3(0, 2.97f, 0);
+        Instantiate(Boss, pos, Quaternion.identity);
     }
 
 

@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\BootCamp\\LikeLion\\Unity\\1945Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CDADE9F4-FE48-C26C-56AA-F9C6AB7F337E}|Assembly-CSharp.csproj|c:\\bootcamp\\likelion\\unity\\1945game\\assets\\script\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDADE9F4-FE48-C26C-56AA-F9C6AB7F337E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDADE9F4-FE48-C26C-56AA-F9C6AB7F337E}|Assembly-CSharp.csproj|c:\\bootcamp\\likelion\\unity\\1945game\\assets\\script\\spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDADE9F4-FE48-C26C-56AA-F9C6AB7F337E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDADE9F4-FE48-C26C-56AA-F9C6AB7F337E}|Assembly-CSharp.csproj|c:\\bootcamp\\likelion\\unity\\1945game\\assets\\script\\bossbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDADE9F4-FE48-C26C-56AA-F9C6AB7F337E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bossbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDADE9F4-FE48-C26C-56AA-F9C6AB7F337E}|Assembly-CSharp.csproj|c:\\bootcamp\\likelion\\unity\\1945game\\assets\\script\\pbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDADE9F4-FE48-C26C-56AA-F9C6AB7F337E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDADE9F4-FE48-C26C-56AA-F9C6AB7F337E}|Assembly-CSharp.csproj|c:\\bootcamp\\likelion\\unity\\1945game\\assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CDADE9F4-FE48-C26C-56AA-F9C6AB7F337E}|Assembly-CSharp.csproj|C:\\BootCamp\\LikeLion\\Unity\\1945Game\\assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDADE9F4-FE48-C26C-56AA-F9C6AB7F337E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDADE9F4-FE48-C26C-56AA-F9C6AB7F337E}|Assembly-CSharp.csproj|C:\\BootCamp\\LikeLion\\Unity\\1945Game\\assets\\script\\poolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDADE9F4-FE48-C26C-56AA-F9C6AB7F337E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\poolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDADE9F4-FE48-C26C-56AA-F9C6AB7F337E}|Assembly-CSharp.csproj|C:\\BootCamp\\LikeLion\\Unity\\1945Game\\assets\\script\\tmpcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDADE9F4-FE48-C26C-56AA-F9C6AB7F337E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\tmpcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDADE9F4-FE48-C26C-56AA-F9C6AB7F337E}|Assembly-CSharp.csproj|C:\\BootCamp\\LikeLion\\Unity\\1945Game\\assets\\script\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDADE9F4-FE48-C26C-56AA-F9C6AB7F337E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,55 +34,64 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PBullet.cs",
-              "DocumentMoniker": "C:\\BootCamp\\LikeLion\\Unity\\1945Game\\Assets\\Script\\PBullet.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\PBullet.cs",
-              "ToolTip": "C:\\BootCamp\\LikeLion\\Unity\\1945Game\\Assets\\Script\\PBullet.cs",
-              "RelativeToolTip": "Assets\\Script\\PBullet.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T05:22:48.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\BootCamp\\LikeLion\\Unity\\1945Game\\Assets\\Script\\Player.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Player.cs",
-              "ToolTip": "C:\\BootCamp\\LikeLion\\Unity\\1945Game\\Assets\\Script\\Player.cs",
-              "RelativeToolTip": "Assets\\Script\\Player.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T05:22:44.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BossBullet.cs",
-              "DocumentMoniker": "C:\\BootCamp\\LikeLion\\Unity\\1945Game\\Assets\\Script\\BossBullet.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\BossBullet.cs",
-              "ToolTip": "C:\\BootCamp\\LikeLion\\Unity\\1945Game\\Assets\\Script\\BossBullet.cs",
-              "RelativeToolTip": "Assets\\Script\\BossBullet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T05:14:23.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Boss.cs",
               "DocumentMoniker": "C:\\BootCamp\\LikeLion\\Unity\\1945Game\\Assets\\Script\\Boss.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Boss.cs",
               "ToolTip": "C:\\BootCamp\\LikeLion\\Unity\\1945Game\\Assets\\Script\\Boss.cs",
               "RelativeToolTip": "Assets\\Script\\Boss.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAIwCoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T04:36:17.323Z",
+              "WhenOpened": "2025-03-17T21:32:59.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PoolManager.cs",
+              "DocumentMoniker": "C:\\BootCamp\\LikeLion\\Unity\\1945Game\\Assets\\Script\\PoolManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PoolManager.cs",
+              "ToolTip": "C:\\BootCamp\\LikeLion\\Unity\\1945Game\\Assets\\Script\\PoolManager.cs",
+              "RelativeToolTip": "Assets\\Script\\PoolManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:31:00.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TMPColor.cs",
+              "DocumentMoniker": "C:\\BootCamp\\LikeLion\\Unity\\1945Game\\Assets\\Script\\TMPColor.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TMPColor.cs",
+              "ToolTip": "C:\\BootCamp\\LikeLion\\Unity\\1945Game\\Assets\\Script\\TMPColor.cs",
+              "RelativeToolTip": "Assets\\Script\\TMPColor.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:30:59.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Spawn.cs",
+              "DocumentMoniker": "C:\\BootCamp\\LikeLion\\Unity\\1945Game\\Assets\\Script\\Spawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Spawn.cs",
+              "ToolTip": "C:\\BootCamp\\LikeLion\\Unity\\1945Game\\Assets\\Script\\Spawn.cs",
+              "RelativeToolTip": "Assets\\Script\\Spawn.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwE0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:50:38.483Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\BootCamp\\LikeLion\\Unity\\1945Game\\Assets\\Script\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player.cs",
+              "ToolTip": "C:\\BootCamp\\LikeLion\\Unity\\1945Game\\Assets\\Script\\Player.cs",
+              "RelativeToolTip": "Assets\\Script\\Player.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwGYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:49:40.093Z"
             }
           ]
         }

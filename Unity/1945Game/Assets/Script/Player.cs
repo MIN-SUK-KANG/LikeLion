@@ -11,10 +11,13 @@ public class Player : MonoBehaviour
     public Transform pos = null;
 
     public int power = 0;
-    [SerializeField]
-    private GameObject powerup;  //private 인스펙터에서 사용하는방법
+
+    [SerializeField]  //private 변수를 unity 인스펙터에서 사용하는방법
+    private GameObject powerup;
 
     //레이저
+    public GameObject lazer;
+    public float gValue = 0;
 
     void Start()
     {
@@ -57,6 +60,27 @@ public class Player : MonoBehaviour
             //프리팹 위치 방향 넣고 생성
             Instantiate(bullet[power], pos.position, Quaternion.identity);
         }
+        else if (Input.GetKey(KeyCode.Space))
+        {
+            gValue += Time.deltaTime;
+
+            if (gValue >= 1)
+            {
+                GameObject go = Instantiate(lazer, pos.position, Quaternion.identity);
+                Destroy(go, 3);
+                gValue = 0;
+            }
+        }
+        else
+        {
+            gValue -= Time.deltaTime;
+
+            if (gValue <= 0)
+            {
+                gValue = 0;
+            }
+        }
+
 
         transform.Translate(moveX, moveY, 0);
 
@@ -75,16 +99,14 @@ public class Player : MonoBehaviour
         */
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.CompareTag("Item"))
+        if (collision.gameObject.CompareTag("Item"))
         {
-            power += 1; //아이템 획득으로 파워업
 
-            if (power >= 3)
-                power = 3;
-            else
+            if (power < 3)
             {
+                power += 1; //아이템 획득으로 파워업
                 //파워업
                 GameObject go = Instantiate(powerup, transform.position, Quaternion.identity);
                 Destroy(go, 1);
