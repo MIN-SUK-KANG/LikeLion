@@ -1,4 +1,6 @@
+using TreeEditor;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
@@ -19,6 +21,9 @@ public class Player : MonoBehaviour
     public GameObject lazer;
     public float gValue = 0;
 
+    public Image Gage;
+
+
     void Start()
     {
         ani = GetComponent<Animator>();
@@ -32,26 +37,22 @@ public class Player : MonoBehaviour
         float moveY = moveSpeed * Time.deltaTime * Input.GetAxis("Vertical");
 
         // -1   0   1
+
+
+        if (Input.GetAxis("Vertical") >= 0.1f)
+            ani.SetBool("up", true);
+        else
+            ani.SetBool("up", false);
+
         if (Input.GetAxis("Horizontal") <= -0.1f)
             ani.SetBool("left", true);
         else
             ani.SetBool("left", false);
 
-
         if (Input.GetAxis("Horizontal") >= 0.1f)
             ani.SetBool("right", true);
         else
             ani.SetBool("right", false);
-
-
-        if (Input.GetAxis("Vertical") >= 0.1f)
-        {
-            ani.SetBool("up", true);
-        }
-        else
-        {
-            ani.SetBool("up", false);
-        }
 
 
         //스페이스
@@ -63,6 +64,7 @@ public class Player : MonoBehaviour
         else if (Input.GetKey(KeyCode.Space))
         {
             gValue += Time.deltaTime;
+            Gage.fillAmount = gValue;
 
             if (gValue >= 1)
             {
@@ -79,6 +81,7 @@ public class Player : MonoBehaviour
             {
                 gValue = 0;
             }
+            Gage.fillAmount = gValue;
         }
 
 

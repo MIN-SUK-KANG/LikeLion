@@ -14,6 +14,7 @@ public class Boss : MonoBehaviour
 
     void Start()
     {
+        Invoke("Hide", 2); //1초뒤에 보스워닝 꺼줘
         StartCoroutine(BossMissle());
         StartCoroutine(CircleFire());
     }
@@ -89,6 +90,8 @@ public class Boss : MonoBehaviour
 
         transform.Translate(flag * speed * Time.deltaTime, 0, 0);
     }
-
-
+        void Hide()
+    {
+        GameObject.Find("TextBossWarning").SetActive(false);
+    }
 }
