@@ -14,12 +14,6 @@ public class MBullet : MonoBehaviour
     }
 
 
-    private void OnBecameInvisible()
-    {
-        Destroy(gameObject);
-    }
-
-
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
@@ -27,6 +21,10 @@ public class MBullet : MonoBehaviour
             //미사일지우기
             Destroy(gameObject);
         }
+    }
+    private void OnBecameInvisible()
+    {
+        Destroy(gameObject);
     }
 
 

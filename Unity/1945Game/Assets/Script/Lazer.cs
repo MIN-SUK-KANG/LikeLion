@@ -4,7 +4,7 @@ public class Lazer : MonoBehaviour
 {
     public GameObject effect;
     Transform pos;
-    int Attack = 10;
+    int Attack = 30;
 
 
     void Start()
@@ -21,7 +21,7 @@ public class Lazer : MonoBehaviour
     {
         if (collision.CompareTag("Monster"))
         {
-            collision.gameObject.GetComponent<Monster>().Damage(Attack++);
+            collision.gameObject.GetComponent<Monster>().Damage(Attack*2);
 
             CreateEffect(collision.transform.position);
         }
@@ -35,7 +35,7 @@ public class Lazer : MonoBehaviour
     {
         if (collision.CompareTag("Monster"))
         {
-            collision.gameObject.GetComponent<Monster>().Damage(Attack++);
+            collision.gameObject.GetComponent<Monster>().Damage(Attack);
 
             CreateEffect(collision.transform.position);
         }

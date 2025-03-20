@@ -20,6 +20,7 @@ public class Player : MonoBehaviour
     //레이저
     public GameObject lazer;
     public float gValue = 0;
+    public bool isLazerOn = false;
 
     public Image Gage;
 
@@ -63,14 +64,28 @@ public class Player : MonoBehaviour
         }
         else if (Input.GetKey(KeyCode.Space))
         {
-            gValue += Time.deltaTime;
-            Gage.fillAmount = gValue;
 
-            if (gValue >= 1)
+            if (gValue < 1 && isLazerOn == false)
             {
+                gValue += Time.deltaTime;
+                Gage.fillAmount = gValue;
+            }
+            else if (gValue >= 1 && isLazerOn == false)
+            {
+                isLazerOn = true;
                 GameObject go = Instantiate(lazer, pos.position, Quaternion.identity);
-                Destroy(go, 3);
-                gValue = 0;
+                Destroy(go, 1.2f);
+                //gValue = 0;
+            }
+            else
+            {
+                gValue -= (Time.deltaTime /2);
+
+                if (gValue <= 0)
+                {
+                    gValue = 0;
+                }
+                Gage.fillAmount = gValue;
             }
         }
         else
@@ -80,6 +95,7 @@ public class Player : MonoBehaviour
             if (gValue <= 0)
             {
                 gValue = 0;
+                isLazerOn = false;
             }
             Gage.fillAmount = gValue;
         }
@@ -106,7 +122,6 @@ public class Player : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Item"))
         {
-
             if (power < 3)
             {
                 power += 1; //아이템 획득으로 파워업
@@ -115,6 +130,7 @@ public class Player : MonoBehaviour
                 Destroy(go, 1);
 
             }
+            else power = 3;
 
             //아이템 먹은 처리
             Destroy(collision.gameObject);

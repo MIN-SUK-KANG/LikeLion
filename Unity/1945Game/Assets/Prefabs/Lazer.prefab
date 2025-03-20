@@ -229,9 +229,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3457736415677275150}
-  - component: {fileID: 6294340001554978459}
   - component: {fileID: 4450035466732574772}
   - component: {fileID: 1790834160732167200}
+  - component: {fileID: 6294340001554978459}
   m_Layer: 0
   m_Name: Lazer
   m_TagString: Untagged
@@ -256,19 +256,6 @@ Transform:
   - {fileID: 2298700031873971707}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &6294340001554978459
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9089071592927050088}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3f5fcb4a0c551f24396c8dcf8db78c52, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  effect: {fileID: 4818771316207187646, guid: 8e29133cbce3c7c4e943588c5aa06b08, type: 3}
 --- !u!50 &4450035466732574772
 Rigidbody2D:
   serializedVersion: 5
@@ -295,7 +282,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &1790834160732167200
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -342,3 +329,16 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.2, y: 2.8}
   m_EdgeRadius: 0
+--- !u!114 &6294340001554978459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9089071592927050088}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f5fcb4a0c551f24396c8dcf8db78c52, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  effect: {fileID: 4818771316207187646, guid: 8e29133cbce3c7c4e943588c5aa06b08, type: 3}

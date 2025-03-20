@@ -1,4 +1,5 @@
 using System.Collections;
+using Unity.Cinemachine;
 using UnityEngine;
 
 public class Boss : MonoBehaviour
@@ -12,6 +13,10 @@ public class Boss : MonoBehaviour
     public Transform pos2;
 
 
+    private void Awake()
+    {
+        CameraShake.instance.SetImpulseSource(GetComponent<CinemachineImpulseSource>());
+    }
     void Start()
     {
         Invoke("Hide", 2); //1초뒤에 보스워닝 꺼줘
