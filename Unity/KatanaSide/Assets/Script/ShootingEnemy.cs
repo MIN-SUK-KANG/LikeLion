@@ -6,6 +6,7 @@ public class ShootingEnemy : MonoBehaviour
     public float detectionRange = 10f;   //플레이어를 감지할 수있는 최대 거리
     public float shootingInterval = 2f;  //미사일 발사 사이의 대기 시간
     public GameObject missilePrefab;     //발사할 미사일 프리팹
+    private Animator animator;            //애니메이터 컴포넌트
 
     [Header("참조 컴포넌트")]
     public Transform firePoint;          //미사일이 발사될 위치
@@ -21,8 +22,7 @@ public class ShootingEnemy : MonoBehaviour
         player = GameObject.FindGameObjectWithTag("Player").transform;
         spriteRenderer = GetComponent<SpriteRenderer>();
         shootTimer = shootingInterval; //타이머 초기화
-
-
+        animator = GetComponent<Animator>();
     }
 
 
@@ -70,10 +70,12 @@ public class ShootingEnemy : MonoBehaviour
         Gizmos.DrawWireSphere(transform.position, detectionRange);
     }
 
-
-
-
-
-
+    //적 캐릭터 사망 애니메이션 재생
+    public void PlayDeathAnimation()
+    {
+        animator.SetBool("Death", true);
+        //선택사항: 애니메이션 종료후 오브젝트 제거를 위해
+        Destroy(gameObject, animator.GetCurrentAnimatorStateInfo(0).length);
+    }
 
 }

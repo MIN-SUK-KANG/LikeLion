@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 7057459319550583339}
   - component: {fileID: 6481609018886795917}
   - component: {fileID: 3431791678571403260}
+  - component: {fileID: -5560747587370187357}
   m_Layer: 0
   m_Name: player_jumpdust_wall
   m_TagString: Untagged
@@ -110,3 +111,16 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-5560747587370187357
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5408695426304847490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33e6983bf3b003240893f2a3d2dbf64e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lifetime: 0.5

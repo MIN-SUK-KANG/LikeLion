@@ -55,6 +55,18 @@ public class Slash : MonoBehaviour
             }
 
 
+            //利 贸府
+            if (collision.CompareTag("Enemy"))
+            {
+                //利狼 磷澜 局聪皋捞记 角青
+                ShootingEnemy enemy = collision.GetComponent<ShootingEnemy>();
+                if (enemy != null)
+                {
+                    enemy.PlayDeathAnimation();
+                }
+            }
+
+
 
         }
     }

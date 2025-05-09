@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -121,6 +122,11 @@ public class Player : MonoBehaviour
 
     void Update()
     {
+        if(Input.GetKeyDown(KeyCode.LeftShift))
+        {
+            //포스트프로세싱 화면효과
+            TimeController.Instance.SetSlowMotion(true);
+        }
 
         if (!isWallJump)
         {
@@ -293,5 +299,13 @@ public class Player : MonoBehaviour
         Gizmos.DrawRay(wallChk.position, Vector2.right * isRight * wallchkDistance);
     }
 
-
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        //보스 씬 진입 포탈과 충돌 체크
+        if (other.CompareTag("BossScene"))
+        {
+            //보스 씬으로 전환
+            SceneManager.LoadScene("Boss");
+        }
+    }
 }

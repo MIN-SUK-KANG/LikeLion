@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BootCamp\\LikeLion\\Unity\\GaemaMusa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D81D5A28-170B-787F-2E3D-7E8B52F3BD0E}|Assembly-CSharp.csproj|c:\\bootcamp\\likelion\\unity\\gaemamusa\\assets\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81D5A28-170B-787F-2E3D-7E8B52F3BD0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\BootCamp\\LikeLion\\Unity\\GaemaMusa\\Assets\\Scripts\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerStats.cs",
+              "ToolTip": "C:\\BootCamp\\LikeLion\\Unity\\GaemaMusa\\Assets\\Scripts\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:31:29.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -7,14 +7,14 @@ public class EnemyMissile : MonoBehaviour
     public int damage = 10;     //미사일 데미지
     public Vector2 direction;  //미사일 이동 방향
 
-
     void Start()
     {
         Destroy(gameObject, lifeTime);  //일정 시간 후 미사일 제거     
     }
     void Update()
     {
-        transform.Translate(direction * speed * Time.deltaTime);
+        float timeScale = TimeController.Instance.GetTimeScale();
+        transform.Translate(direction * speed * Time.deltaTime * timeScale);
     }
 
 
@@ -22,6 +22,10 @@ public class EnemyMissile : MonoBehaviour
     public void SetDirection(Vector2 dir)
     {
         direction = dir.normalized;
+    }
+    public Vector2 GetDirection()
+    {
+        return direction;
     }
 
 
@@ -32,11 +36,17 @@ public class EnemyMissile : MonoBehaviour
             //여기에 플레이어 데미지 로직 추가
             Destroy(gameObject);
         }
-    }
-    public Vector2 GetDirection()
-    {
-        return direction;
-    }
+        else if (other.CompareTag("Enemy"))
+        {
+            ShootingEnemy enemy = other.GetComponent<ShootingEnemy>();
+            if (enemy != null)
+            {
+                enemy.PlayDeathAnimation();
+            }
 
+            //미사일 제거
+            Destroy(gameObject);
+        }
+    }
 
 }

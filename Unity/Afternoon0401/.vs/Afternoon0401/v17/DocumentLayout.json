@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BootCamp\\LikeLion\\Unity\\Afternoon0401\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AABB1E3-770A-5639-B872-CF94B0A9CD55}|Assembly-CSharp.csproj|c:\\bootcamp\\likelion\\unity\\afternoon0401\\assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AABB1E3-770A-5639-B872-CF94B0A9CD55}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AABB1E3-770A-5639-B872-CF94B0A9CD55}|Assembly-CSharp.csproj|C:\\BootCamp\\LikeLion\\Unity\\Afternoon0401\\assets\\script\\shapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AABB1E3-770A-5639-B872-CF94B0A9CD55}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\shapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AABB1E3-770A-5639-B872-CF94B0A9CD55}|Assembly-CSharp.csproj|C:\\BootCamp\\LikeLion\\Unity\\Afternoon0401\\assets\\script\\spawnobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AABB1E3-770A-5639-B872-CF94B0A9CD55}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\spawnobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AABB1E3-770A-5639-B872-CF94B0A9CD55}|Assembly-CSharp.csproj|C:\\BootCamp\\LikeLion\\Unity\\Afternoon0401\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AABB1E3-770A-5639-B872-CF94B0A9CD55}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AABB1E3-770A-5639-B872-CF94B0A9CD55}|Assembly-CSharp.csproj|C:\\BootCamp\\LikeLion\\Unity\\Afternoon0401\\assets\\script\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AABB1E3-770A-5639-B872-CF94B0A9CD55}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AABB1E3-770A-5639-B872-CF94B0A9CD55}|Assembly-CSharp.csproj|C:\\BootCamp\\LikeLion\\Unity\\Afternoon0401\\assets\\script\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AABB1E3-770A-5639-B872-CF94B0A9CD55}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\BootCamp\\LikeLion\\Unity\\Afternoon0401\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "C:\\BootCamp\\LikeLion\\Unity\\Afternoon0401\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:51:11.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpawnObject.cs",
+              "DocumentMoniker": "C:\\BootCamp\\LikeLion\\Unity\\Afternoon0401\\Assets\\Script\\SpawnObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SpawnObject.cs",
+              "ToolTip": "C:\\BootCamp\\LikeLion\\Unity\\Afternoon0401\\Assets\\Script\\SpawnObject.cs",
+              "RelativeToolTip": "Assets\\Script\\SpawnObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:40:53.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\BootCamp\\LikeLion\\Unity\\Afternoon0401\\Assets\\Script\\EventController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EventController.cs",
+              "ToolTip": "C:\\BootCamp\\LikeLion\\Unity\\Afternoon0401\\Assets\\Script\\EventController.cs",
+              "RelativeToolTip": "Assets\\Script\\EventController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwF8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:51:09.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "C:\\BootCamp\\LikeLion\\Unity\\Afternoon0401\\Assets\\Script\\Observer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Observer.cs",
+              "ToolTip": "C:\\BootCamp\\LikeLion\\Unity\\Afternoon0401\\Assets\\Script\\Observer.cs",
+              "RelativeToolTip": "Assets\\Script\\Observer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:51:26.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shapes.cs",
+              "DocumentMoniker": "C:\\BootCamp\\LikeLion\\Unity\\Afternoon0401\\Assets\\Script\\Shapes.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Shapes.cs",
+              "ToolTip": "C:\\BootCamp\\LikeLion\\Unity\\Afternoon0401\\Assets\\Script\\Shapes.cs",
+              "RelativeToolTip": "Assets\\Script\\Shapes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:18:16.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\BootCamp\\LikeLion\\Unity\\Afternoon0401\\Assets\\Script\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player.cs",
+              "ToolTip": "C:\\BootCamp\\LikeLion\\Unity\\Afternoon0401\\Assets\\Script\\Player.cs",
+              "RelativeToolTip": "Assets\\Script\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:57:25.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
